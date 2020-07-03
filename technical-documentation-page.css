@@ -76,5 +76,5 @@ code{
     text-align: left;
     white-space: pre;
     position: relative;
-    word-break:
+    word-break: normal;
 }
