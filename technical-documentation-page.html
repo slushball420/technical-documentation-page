@@ -176,7 +176,12 @@
         function.
                     </p>
                     <p>
-                        
+                        JavaScript before ECMAScript 2015 does not have block statement scope;
+        rather, a variable declared within a block is local to the function (or
+        global scope) that the block resides within. For example the following
+        code will log 5, because the scope of x is the function (or global
+        context) within which x is declared, not the block, which in this case
+        is an if statement.
                     </p>
                 </article>
             </section>
