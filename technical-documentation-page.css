@@ -85,4 +85,6 @@ code{
     border-radius: 5px;
 }
 
-@media
+@media only screen and (max-width: 815px){
+    
+}
