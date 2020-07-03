@@ -34,5 +34,5 @@ header{
 #navbar ul{
     height: 88%;
     padding: 0;
-    overflow-y:
+    overflow-y: auto;
 }
