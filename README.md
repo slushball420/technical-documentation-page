@@ -1,0 +1,1 @@
+A technical documentation page for JavaScript with an internally linked navigation bar that scrolls with the user, embedded code, and imported text from MDN. See it in action here! https://codepen.io/slushball420/pen/mdVpgPm
