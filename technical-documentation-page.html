@@ -235,7 +235,9 @@
                     You cannot declare a constant with the same name as a function or
         variable in the same scope. For example:
                 </p>
-                <code></code>
+                <code>// THIS WILL CAUSE AN ERROR function f() {}; const f = 5; // THIS WILL
+                    CAUSE AN ERROR ALSO function f() { const g = 5; var g; //statements
+                    }</code>
 
             </section>
         </main>
